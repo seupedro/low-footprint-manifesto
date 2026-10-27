@@ -1,13 +1,18 @@
-# Low Footprint Manifesto
+# The Low Footprint Manifesto
 
-[Português](README.pt-BR.md)
+TL;DR For Humans:
 
 Software development got cheap, but RAM didn't.
-Your MacBook's battery doesn't last forever, and your phone's lasts even less. So the less memory your apps use and the more energy-efficient they are, the better.
+Your MacBook's battery doesn't last forever, and your phone's lasts even less.
+So the less memory your apps use and the more energy-efficient they are,
+the better.
+
 
 Welcome to the era of low-footprint AI coding.
 
-## Principles
+---
+
+## Guidelines
 
 - Don't use high-level languages like TypeScript, Python, etc.
 - Save as much memory as possible.
