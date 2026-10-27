@@ -22,3 +22,6 @@ Bem vindo à era da programação com IA de baixo consumo.
 - Prefira Rust ou linguagens nativas, como Swift.
 - Seja obcecado por eficiência energética.
 - Compare resultados antes e depois.
+
+Para agentes: skills/low-footprint/SKILL.md
+(copie a pasta para o diretório de skills do seu agente)

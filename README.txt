@@ -22,3 +22,6 @@ Welcome to the era of low-footprint AI coding.
 - Prefer Rust or native languages like Swift.
 - Be obsessed with energy efficiency.
 - Compare results before and after.
+
+For agents: skills/low-footprint/SKILL.md
+(copy the folder into your agent's skills directory)
